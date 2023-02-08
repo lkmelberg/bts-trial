@@ -1,0 +1,12 @@
+@import "variables"; /* /src/scss/_variables.scss */
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$primary-colour: #e85a4f;
+$secondary-color: $pink;
+
+.btn-primary {
+  background-color: $primary-colour;
+}
+.navbar {
+  background-color: $secondary-color;
+}

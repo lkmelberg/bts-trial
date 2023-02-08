@@ -1,0 +1,28 @@
+{
+  "name": "bts-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass scss:css",
+    "watch": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkmelberg/bts-trial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkmelberg/bts-trial/issues"
+  },
+  "homepage": "https://github.com/lkmelberg/bts-trial#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.58.0"
+  }
+}
